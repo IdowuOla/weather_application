@@ -123,6 +123,7 @@ def get_weather(city):
     print(f"Weather Condition: {weather_description}")
     print("====================================")
                 
+# Future feature: Display humidity information
 
 def main():
     city = input("Enter a city: ").strip()
