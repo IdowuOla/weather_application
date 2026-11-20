@@ -1,1 +1,1 @@
-weather = "Cloudy"
+weather = "Raniny and Cloudy"
